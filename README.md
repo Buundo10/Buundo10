@@ -54,9 +54,12 @@ A passionate **Full-Stack Developer from Somalia**
 
 
  ## 🔗 Contact with me:
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/mohamed-osman-011b6235b) LinkedIn  https://www.linkedin.com/in/mohamed-osman-011b6235b
-[![Facebook](https://cdn-icons-png.flaticon.com/24/733/733547.png)](https://www.facebook.com/share/1AYxjgmTn1/) Facebook  https://www.facebook.com/share/1AYxjgmTn1/
-[![GitHub](https://cdn-icons-png.flaticon.com/24/733/733553.png)](https://github.com/Buundo10) GitHub   https://github.com/Buundo10
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/mohamed-osman-011b6235b)
+LinkedIn  https://www.linkedin.com/in/mohamed-osman-011b6235b
+[![Facebook](https://cdn-icons-png.flaticon.com/24/733/733547.png)](https://www.facebook.com/share/1AYxjgmTn1/) 
+Facebook  https://www.facebook.com/share/1AYxjgmTn1/
+[![GitHub](https://cdn-icons-png.flaticon.com/24/733/733553.png)](https://github.com/Buundo10) 
+GitHub   https://github.com/Buundo10
 
 ---
 
