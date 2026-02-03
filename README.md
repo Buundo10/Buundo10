@@ -8,9 +8,10 @@ A passionate **Full-Stack Developer from Somalia**
 ## 🌱 About Me
 
 * Aspiring Full-Stack Developer focused on building complete web applications
-* 🌱 I’m currently learning **AI** and **Cybersecurity**
 * Enjoy working on backend systems and connecting them with clean frontends
 * Learning by building real-world projects step by step 🚀
+
+🌱 I’m currently learning **AI** and **Cybersecurity**
 
 ---
 
