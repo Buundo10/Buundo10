@@ -55,7 +55,7 @@ A passionate **Full-Stack Developer from Somalia**
 🔗 Contact with me:
  LinkedIn: https://www.linkedin.com/in/mohamed-osman-011b6235b
 
-📘 Facebook: https://www.facebook.com/muhammedothmanmuhammed
+📘 Facebook: https://www.facebook.com/MuhammedOthmanMuhammed
 
 💻 GitHub: https://github.com/Buundo10
 
